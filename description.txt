@@ -1,0 +1,1 @@
+This mod makes it possible to make coal by smelting logs (trees).
